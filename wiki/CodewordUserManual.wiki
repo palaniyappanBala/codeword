@@ -1,0 +1,6 @@
+#labels UserManual
+#The codeword user manual is for incident responders, forensic investigators, system administrators, or any IT personnel that is responsible for administering and securing a network.
+
+= Introduction =
+
+Coming soon...
