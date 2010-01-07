@@ -20,7 +20,7 @@ Here is the dependency tree, in a nutshell.  More details can be found in the us
 
 = Solution =
 
-You need to manually build the CwDriver solution (open the solution, right-click on CwDriver, project only, build only cwdriver) and copy the resulting .sys file to the CwAgent\Resources folder.  The solution should compile.
+You need to manually build the CwDriver project (open the Codeword solution, right-click on CwDriver, project only, build only cwdriver) and copy the resulting .sys file to the CwAgent\Resources folder.  The solution should compile.
 
 You will need to do this each time you alter the driver.  
 
